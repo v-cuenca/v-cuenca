@@ -4,7 +4,7 @@
 
 ---
   
-- 🔭 I’m currently working on my **FCT WEB Application Developer**
+- 🔭 I’m currently working on my **FCT Web Application Developer**
   
 - 🌱 I’m currently learning **JavaScript, HMTL5, CSS3, PHP**
   
